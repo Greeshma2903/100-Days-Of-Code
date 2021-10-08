@@ -4,8 +4,8 @@
 
 |Day|Task Done|
 |-----|-----|
-|||
-|||
+|1|2 Leetcode questions|
+|2|Learnt Stack and Queue concepts (Array & LL)|
 
 *Resume Count*: `0`
 
