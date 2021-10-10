@@ -6,6 +6,9 @@
 |-----|-----|
 |1|2 Leetcode questions|
 |2|Learnt Stack and Queue concepts (Array & LL)|
+|3|*College Assignments*|
+|4|2 Leetcode questions|
+|5|Conversion of Infix to Postfix using Stack, read a little about Linux|
 
 *Resume Count*: `0`
 
