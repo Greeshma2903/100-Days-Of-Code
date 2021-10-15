@@ -9,6 +9,11 @@
 |3|*College Assignments*|
 |4|2 Leetcode questions|
 |5|Conversion of Infix to Postfix using Stack, read a little about Linux|
+|6|College Assignment on Stacks, Operator Overloading|
+|7|-|
+|8|Revised Closures|
+|9|Studied for College Exams *Computer Organization*; Started Vanilla JS project|
+|10||
 
 *Resume Count*: `0`
 
