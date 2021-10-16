@@ -11,9 +11,10 @@
 |5|Conversion of Infix to Postfix using Stack, read a little about Linux|
 |6|College Assignment on Stacks, Operator Overloading|
 |7|-|
-|8|Revised Closures|
+|8|Revised Closures from Akshay Saini's [video](https://www.youtube.com/watch?v=t1nFAMws5FI)|
 |9|Studied for College Exams *Computer Organization*; Started Vanilla JS project|
-|10||
+|10| Done with Vanilla JS project - learnt how to used map, reduce, filter array methods for filtering option; I am going to try and implement it in a FM project. Worked with local data (within the .js file), will use JSON in future to fetch data; Revised some OOP concepts (PS: exams gonna start) 😅|
+|11||
 
 *Resume Count*: `0`
 
