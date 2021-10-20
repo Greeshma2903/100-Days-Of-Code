@@ -15,7 +15,8 @@
 |9|Studied for College Exams *Computer Organization*; Started Vanilla JS project|
 |10| Done with Vanilla JS project - learnt how to used map, reduce, filter array methods for filtering option; I am going to try and implement it in a FM project. Worked with local data (within the .js file), will use JSON in future to fetch data; Revised some OOP concepts (PS: exams gonna start) 😅|
 |11|Learnt about Cache memory *Computer Org*; Operator Overloading in C++ |
-|12| |
+|12| Practiced map, reduce and filter methods on a project; Started on a FM project|
+|13|*Couldn't do much, prepping for Internals*|
 
 *Resume Count*: `0`
 
@@ -26,12 +27,11 @@ ___
   <br>
   
   - [ ] DS in C++ 
-  - [ ] Complete JS (for Framework/ Library) 
+  - [ ] JS () 
       - [ ] Course
       - [ ] JS30
   - [ ] React 
       - [ ] v2 Portfolio
-  - [ ] Hackathons
 </details>
   
 ___
