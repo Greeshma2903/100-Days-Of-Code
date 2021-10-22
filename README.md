@@ -16,9 +16,10 @@
 |10| Done with Vanilla JS project - learnt how to used map, reduce, filter array methods for filtering option; I am going to try and implement it in a FM project. Worked with local data (within the .js file), will use JSON in future to fetch data; Revised some OOP concepts (PS: exams gonna start) 😅|
 |11|Learnt about Cache memory *Computer Org*; Operator Overloading in C++ |
 |12| Practiced map, reduce and filter methods on a project; Started on a FM project|
-|13|*Couldn't do much, prepping for Internals*|
+|13|*Break 2days*|
+|14|JS30 Drum Kit project; Sorting Arrays|
 
-*Resume Count*: `0`
+*Resume Count*: `1`
 
 ___
 
