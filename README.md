@@ -18,6 +18,7 @@
 |12| Practiced map, reduce and filter methods on a project; Started on a FM project|
 |13|*Break 2days*|
 |14|JS30 Drum Kit project; Sorting Arrays|
+|15|Couldn't code, but learnt about Timing Events in JS|
 
 *Resume Count*: `1`
 
