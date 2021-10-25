@@ -19,6 +19,7 @@
 |13|*Break 2days*|
 |14|JS30 Drum Kit project; Sorting Arrays|
 |15|Couldn't code, but learnt about Timing Events in JS|
+|16|Day2 JS30: Analog Clock|
 
 *Resume Count*: `1`
 
