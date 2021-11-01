@@ -20,8 +20,14 @@
 |14|JS30 Drum Kit project; Sorting Arrays|
 |15|Couldn't code, but learnt about Timing Events in JS|
 |16|Day2 JS30: Analog Clock|
+|| *Couldn't code much, was working on UI of a project* 
+|17|Started Hackathon Project
+|18|WIP: Hackathon project
+|19| WIP: Hackathon Project
+|20|2 LC ques; Learnt about 'this' and callback (Pointer to functions) in C++ (Was surprised to know even C++ has 'this' operator, wondering if it has closures as well 🤔)
 
-*Resume Count*: `1`
+
+*Resume Count*: `2`
 
 ___
 
