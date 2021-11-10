@@ -24,3 +24,15 @@ ___
 
 *PS: College Stuff 📝*
 </details>
+
+<details>
+<summary>DSA Stuff</summary>
+
+**Recursion**
+
+- https://youtu.be/M2uO2nMT0Bk
+
+**Trees**
+
+- https://youtu.be/vvey2QCs98o
+</details>

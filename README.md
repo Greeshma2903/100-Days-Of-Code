@@ -25,9 +25,13 @@
 |18|WIP: Hackathon project
 |19| WIP: Hackathon Project
 |20|2 LC ques; Learnt about 'this' and callback (Pointer to functions) in C++ (Was surprised to know even C++ has 'this' operator, wondering if it has closures as well 🤔)
+|21| Attempted easy leetcode question, have to redo|
+||*Break 3days 🪔😬*|
+|22|Revised recursion (tutorial)|
+|23|Didn't code, but learnt Linux Commands|
+|24|Introduced to Trees and Binary trees|
 
-
-*Resume Count*: `2`
+*Resume Count*: `3`
 
 ___
 
