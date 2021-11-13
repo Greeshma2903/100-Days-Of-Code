@@ -30,6 +30,8 @@
 |22|Revised recursion (tutorial)|
 |23|Didn't code, but learnt Linux Commands|
 |24|Introduced to Trees and Binary trees|
+| 25| Practiced recursion questions, learnt Time complexity|
+|26|Binary tree traversal : inorder, post, pre; 3 Linked List questions|
 
 *Resume Count*: `3`
 
