@@ -32,6 +32,10 @@
 |24|Introduced to Trees and Binary trees|
 | 25| Practiced recursion questions, learnt Time complexity|
 |26|Binary tree traversal : inorder, post, pre; 3 Linked List questions|
+||_buried in never ending college stuff, guess i should shift to dates over days 🤔_|
+|3rd week Nov|Did a JS counter Program, Advanced DOM understanding|
+|4th Week of NOV|Binary Search Trees; Inheritance OOPS;|
+
 
 *Resume Count*: `3`
 
